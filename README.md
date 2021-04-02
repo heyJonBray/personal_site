@@ -1,4 +1,7 @@
-# My Portfolio Website
+#nanacnote/personal_site
+Practice TypeScript hooks.
+Better linting.
+Apply to my site.
 
 This website is a NextJS app configured with:
 
